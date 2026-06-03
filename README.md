@@ -44,16 +44,7 @@ bu-mis-unified-suite.php
 
 Before publishing, remove all private data such as internal IP addresses, API keys, passwords, tokens, and institution-only endpoints.
 
-## Suggested Citation
-
-Mishra, A. (2026). *BU MIS Unified Suite: A WordPress-Based Integrated Library Analytics Dashboard for Academic Library Decision Support*. Bennett University Learning Resource Centre.
-
 ## License
 
 This project is released under the MIT License. You may change the license according to your institution's policy.
 
-## How to Cite
-
-If you use or refer to this project, please cite it as:
-
-Mishra, A. (2026). BU MIS Unified Suite: A WordPress-based integrated Library MIS dashboard for academic library analytics [Computer software]. GitHub. https://github.com/mashutosh934755/bu-mis-unified-suite
