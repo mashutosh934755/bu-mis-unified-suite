@@ -1,0 +1,37 @@
+# WordPress / plugin development
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.bak
+*.backup
+*.old
+*.disabled*
+*.zip
+*.tar.gz
+
+# Secrets / local config
+.env
+.env.*
+config.local.php
+local-config.php
+secrets.php
+private/
+credentials/
+keys/
+
+# Composer / Node
+vendor/
+node_modules/
+composer.lock
+package-lock.json
+
+# WordPress uploads/cache
+wp-content/cache/
+wp-content/uploads/
+cache/
+tmp/
+
+# IDE
+.vscode/
+.idea/
