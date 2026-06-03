@@ -46,5 +46,5 @@ Before publishing, remove all private data such as internal IP addresses, API ke
 
 ## License
 
-This project is released under the MIT License. You may change the license according to your institution's policy.
+This repository is released as **All Rights Reserved / View Only**. The code and documentation are publicly visible for academic review, transparency, and citation purposes only. Reuse, modification, redistribution, deployment, or commercial use is not permitted without prior written permission.
 
