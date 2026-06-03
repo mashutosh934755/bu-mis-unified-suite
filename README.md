@@ -51,3 +51,9 @@ Mishra, A. (2026). *BU MIS Unified Suite: A WordPress-Based Integrated Library A
 ## License
 
 This project is released under the MIT License. You may change the license according to your institution's policy.
+
+## How to Cite
+
+If you use or refer to this project, please cite it as:
+
+Mishra, A. (2026). BU MIS Unified Suite: A WordPress-based integrated Library MIS dashboard for academic library analytics [Computer software]. GitHub. https://github.com/mashutosh934755/bu-mis-unified-suite
